@@ -1,10 +1,10 @@
-SemanticCutter，一个中文切词系统。
+LibreCutter，一个中文切词系统。
 
 使用说明：
 
-0. git clone https://github.com/tf-bao/SemanticCutter.git
+0. git clone https://github.com/tf-bao/LibreCutter.git
 
-1. cd SemanticCutter; mvn package // 构建系统
+1. cd LibreCutter; mvn package // 构建系统
 
 2. java -jar target/SemanticCutter-1.0.jar // 默认是把辞典转换成二进制trie文件
 
